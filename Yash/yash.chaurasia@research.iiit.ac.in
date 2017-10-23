@@ -1,0 +1,285 @@
+Script started on Wed 13 Sep 2017 04:21:52 PM IST
+]777;notify;Command completed;cd ~/Yash/]0;user@localhost:~/Yash]7;file://localhost.localdomain/home/user/Yash[user@localhost Yash]$ mkdir Assignment1
+]777;notify;Command completed;mkdir Assignment1]0;user@localhost:~/Yash]7;file://localhost.localdomain/home/user/Yash[user@localhost Yash]$ cd a[KAssignment1/
+]777;notify;Command completed;cd Assignment1/]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ mkdir -p a b/e/f
+]777;notify;Command completed;mkdir -p a b/e/f]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ cd a
+]777;notify;Command completed;cd a]0;user@localhost:~/Yash/Assignment1/a]7;file://localhost.localdomain/home/user/Yash/Assignment1/a[user@localhost a]$ ls -l ~|t[K |[C tee file.txt
+total 136
+drwxrwxr-x. 2 user user 4096 Sep 11 23:54 a
+-rw-rw-r--. 1 user user  877 Sep  3 18:10 abc.c
+-rwxrwxr-x. 1 user user 8536 Sep  6 11:54 a.out
+drwxrwxr-x. 4 user user 4096 Sep 12 23:34 Assign
+drwxrwxr-x. 3 user user 4096 Sep 11 23:54 b
+-rw-rw-r--. 1 user user  120 Aug 29 15:53 bit.c
+drwxr-xr-x. 2 user user 4096 Jun 27 12:24 Desktop
+drwxr-xr-x. 2 user user 4096 Jun 27 12:24 Documents
+drwxr-xr-x. 7 user user 4096 Sep 11 23:43 Downloads
+-rw-rw-r--. 1 user user    0 Sep 13 14:57 Downloadsy
+-rwxrw-r--. 1 user user   75 Sep  3 16:01 dymm.c
+-rw-rw-r--. 1 user user  196 Sep  6 11:54 fb.c
+-rw-rw-r--. 1 user user  360 Sep  5 13:45 fib.c
+-rwxrwxr-x. 1 user user   70 Sep  6 17:29 first.sh
+-rwxrwxrwx. 1 user user 1310 Sep 11 23:55 gaurav.log
+-rw-rw-r--. 1 user user    0 Sep 11 22:26 grep
+-rwxrwxr-x. 1 user user 8632 Sep  4 18:24 insertion
+-rw-rw-r--. 1 user user  488 Sep  4 18:24 insertion.c
+-rw-rw-r--. 1 user user    0 Sep 12 22:18 lab1.c
+-rw-rw-r--. 1 user user    0 Sep 12 22:18 lab2.c
+-rw-rw-r--. 1 user user    0 Sep 12 22:18 lab3.c
+-rw-rw-r--. 1 user user    0 Sep 12 22:18 lab4.c
+-rw-rw-r--. 1 user user    0 Sep 12 22:18 lab5.c
+drwxr-xr-x. 2 user user 4096 Jun 27 12:24 Music
+-rw-rw-r--. 1 user user  587 Sep  5 13:41 pascal.c
+-rwxr-xr-x. 1 user user   51 Sep  4 20:42 ph
+drwxr-xr-x. 3 user user 4096 Sep  6 21:37 Pictures
+-rw-rw-r--. 1 user user  221 Sep  3 16:01 pro.c
+drwxr-xr-x. 2 user user 4096 Jun 27 12:24 Public
+-rw-rw-r--. 1 user user  463 Aug 22 10:49 rect.c
+-rw-rw-r--. 1 user user  233 Sep  5 11:54 sqrt.c
+drwxr-xr-x. 2 user user 4096 Jun 27 12:24 Templates
+-rw-rw-r--. 1 user user  178 Aug 29 16:10 tog.c
+drwxrwxr-x. 3 user user 4096 Sep  6 17:50 Varun
+drwxr-xr-x. 4 user user 4096 Aug 26 22:53 Videos
+-rw-rw-r--. 1 user user  128 Sep  1 22:27 water.c
+drwxrwxr-x. 6 user user 4096 Sep 13 16:22 Yash
+]777;notify;Command completed;ls -l ~ | tee file.txt]0;user@localhost:~/Yash/Assignment1/a]7;file://localhost.localdomain/home/user/Yash/Assignment1/a[user@localhost a]$ [K[user@localhost a]$ mv file.txt file![K1.txt
+]777;notify;Command completed;mv file.txt file1.txt]0;user@localhost:~/Yash/Assignment1/a]7;file://localhost.localdomain/home/user/Yash/Assignment1/a[user@localhost a]$ cp file1.txt ../b/e/f/file2.txt
+]777;notify;Command completed;cp file1.txt ../b/e/f/file2.txt]0;user@localhost:~/Yash/Assignment1/a]7;file://localhost.localdomain/home/user/Yash/Assignment1/a[user@localhost a]$ cat file1.txt | tr -s " " | cut -d " " -f5| |[C sort | uni q[K[A[user@localhost a]$ cat file1.txt | tr -s " " | cut -d " " -f5 | sort | uniq [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kq
+
+0
+120
+128
+1310
+178
+196
+221
+233
+360
+4096
+463
+488
+51
+587
+70
+75
+8536
+8632
+877
+]777;notify;Command completed;cat file1.txt | tr -s " " | cut -d " " -f5 | sort | uniq]0;user@localhost:~/Yash/Assignment1/a]7;file://localhost.localdomain/home/user/Yash/Assignment1/a[user@localhost a]$ cd ../b/e/f
+]777;notify;Command completed;cd ../b/e/f]0;user@localhost:~/Yash/Assignment1/b/e/f]7;file://localhost.localdomain/home/user/Yash/Assignment1/b/e/f[user@localhost f]$ pwd
+/home/user/Yash/Assignment1/b/e/f
+]777;notify;Command completed;pwd]0;user@localhost:~/Yash/Assignment1/b/e/f]7;file://localhost.localdomain/home/user/Yash/Assignment1/b/e/f[user@localhost f]$ cd -
+/home/user/Yash/Assignment1/a
+]777;notify;Command completed;cd -]0;user@localhost:~/Yash/Assignment1/a]7;file://localhost.localdomain/home/user/Yash/Assignment1/a[user@localhost a]$ touch file1.txt 
+]777;notify;Command completed;touch file1.txt ]0;user@localhost:~/Yash/Assignment1/a]7;file://localhost.localdomain/home/user/Yash/Assignment1/a[user@localhost a]$ cd ..
+]777;notify;Command completed;cd ..]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ cat > file3.txt
+lllll    ine1
+line2
+line3
+line4
+line5
+line6
+line7
+line8
+line9
+line10
+line11
+line12
+line13
+line14
+line15
+line16
+line17
+line18
+line19
+This is the last line: line20
+]777;notify;Command completed;cat > file3.txt]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ head file3.txt 
+line1
+line2
+line3
+line4
+line5
+line6
+line7
+line8
+line9
+line10
+]777;notify;Command completed;head file3.txt ]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ head file3.txt [Khead file3.txt [1@-[1@1[1@5[1@ [C[C[C[C[C[C[C[C[C[C | [C t a i l [C - 9 
+line7
+line8
+line9
+line10
+line11
+line12
+line13
+line14
+line15
+]777;notify;Command completed;head -15 file3.txt | tail -9 ]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ wc -w file3.txt | cut -d " " -f1
+25
+]777;notify;Command completed;wc -w file3.txt | cut -d " " -f1]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ echo "hello world"
+hello world
+]777;notify;Command completed;echo "hello world"]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ which ls
+alias ls='ls --color=auto'
+	/usr/bin/ls
+]777;notify;Command completed;which ls]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ history | tail -6 | head -5
+ 1011  head file3.txt 
+ 1012  head -15 file3.txt | tail -9 
+ 1013  wc -w file3.txt | cut -d " " -f1
+ 1014  echo "hello world"
+ 1015  which ls
+]777;notify;Command completed;history | tail -6 | head -5]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ touch lab1.txt lab2.txt lab3.txt lab4.txt lab5 .txt[K[A[user@localhost Assignment1]$ touch lab1.txt lab2.txt lab3.txt lab4.txt lab5.txt
+]777;notify;Command completed;touch lab1.txt lab2.txt lab3.txt lab4.txt lab5.txt]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ rename .txt .c lab?.txt
+]777;notify;Command completed;rename .txt .c lab?.txt]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ tree
+.
+├── a
+│   └── file1.txt
+├── b
+│   └── e
+│       └── f
+│           └── file2.txt
+├── file3.txt
+├── lab1.c
+├── lab2.c
+├── lab3.c
+├── lab4.c
+└── lab5.c
+
+4 directories, 8 files
+]777;notify;Command completed;tree]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ ls -lt[K[Ktl
+total 12
+-rw-rw-r--. 1 user user    0 Sep 13 16:47 lab1.c
+-rw-rw-r--. 1 user user    0 Sep 13 16:47 lab2.c
+-rw-rw-r--. 1 user user    0 Sep 13 16:47 lab3.c
+-rw-rw-r--. 1 user user    0 Sep 13 16:47 lab4.c
+-rw-rw-r--. 1 user user    0 Sep 13 16:47 lab5.c
+-rw-rw-r--. 1 user user  154 Sep 13 16:42 file3.txt
+drwxrwxr-x. 2 user user 4096 Sep 13 16:32 [0m[38;5;33ma[0m
+drwxrwxr-x. 3 user user 4096 Sep 13 16:23 [38;5;33mb[0m
+]777;notify;Command completed;ls -tl]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ ls -rSl
+total 12
+-rw-rw-r--. 1 user user    0 Sep 13 16:47 lab5.c
+-rw-rw-r--. 1 user user    0 Sep 13 16:47 lab4.c
+-rw-rw-r--. 1 user user    0 Sep 13 16:47 lab3.c
+-rw-rw-r--. 1 user user    0 Sep 13 16:47 lab2.c
+-rw-rw-r--. 1 user user    0 Sep 13 16:47 lab1.c
+-rw-rw-r--. 1 user user  154 Sep 13 16:42 file3.txt
+drwxrwxr-x. 3 user user 4096 Sep 13 16:23 [0m[38;5;33mb[0m
+drwxrwxr-x. 2 user user 4096 Sep 13 16:32 [38;5;33ma[0m
+]777;notify;Command completed;ls -rSl]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ find . maxdepth 2[1@-
+.
+./lab3.c
+./lab1.c
+./lab2.c
+./file3.txt
+./lab4.c
+./b
+./b/e
+./lab5.c
+./a
+./a/file1.txt
+]777;notify;Command completed;find . -maxdepth 2]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ find $PWD [K?[K/*.txt -maxdepth 1
+/home/user/Yash/Assignment1/file3.txt
+]777;notify;Command completed;find $PWD/*.txt -maxdepth 1]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ clear
+[3J[H[2J]777;notify;Command completed;clear]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ echo $USER
+user
+]777;notify;Command completed;echo $USER]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ ping -c1 intranet.iiit.ac.in
+PING intranet.iiit.ac.in (10.4.21.84) 56(84) bytes of data.
+64 bytes from 10.4.21.84 (10.4.21.84): icmp_seq=1 ttl=62 time=0.217 ms
+
+--- intranet.iiit.ac.in ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.217/0.217/0.217/0.000 ms
+]777;notify;Command completed;ping -c1 intranet.iiit.ac.in]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ ssh yash.chaurasia@mirage.iiit.ac.in
+yash.chaurasia@mirage.iiit.ac.in's password: 
+Last login: Wed Sep 13 16:18:47 2017 from 10.3.11.184
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                                         #
+#           ATTENTION: Server is no longer under maintainence!            #
+#                                                                         #
+#                                                                         #
+# No backups or recovery of any data here will be carried out!            #
+# Store data here at your own risk!                                       #
+#                                                                         #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+id: cannot find name for group ID 201733
+[yash.chaurasia@mirage ~]$ who
+varsha.redla pts/0        2017-09-13 16:55 (10.3.11.124)
+yash.chaurasia pts/2        2017-09-13 16:56 (10.3.11.184)
+[yash.chaurasia@mirage ~]$ touch server.txt
+Broadcast message from varsha.redla (pts/0) (Wed Sep 13 16:58:21 2017):
+
+hello world
+
+[yash.chaurasia@mirage ~]$ touch server.txt
+[yash.chaurasia@mirage ~]$ 
+Broadcast message from varsha.redla (pts/0) (Wed Sep 13 16:59:29 2017):
+
+hello world
+
+[yash.chaurasia@mirage ~]$ logout
+[H[2JConnection to mirage.iiit.ac.in closed.
+]777;notify;Command completed;ssh yash.chaurasia@mirage.iiit.ac.in]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ ps -elf | tr -s " " | cut -d " " -f4 > pid.txt
+]777;notify;Command completed;ps -elf | tr -s " " | cut -d " " -f4 > pid.txt]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ df -h .
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2        92G  9.3G   78G  11% /home
+]777;notify;Command completed;df -h .]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ cat /usr/share/dict/linux.words | grep work | wc -c[Kw
+759
+]777;notify;Command completed;cat /usr/share/dict/linux.words | grep work | wc -w]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ scp -r ../Assignment1/ yash.chaurasia@mirage.iiit.ac.in
+cp: cannot copy a directory, '../Assignment1/', into itself, 'yash.chaurasia@mirage.iiit.ac.in'
+]777;notify;Command completed;scp -r ../Assignment1/ yash.chaurasia@mirage.iiit.ac.in]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ scp -r ../Assignment1/ yash.chaurasia@mirage.iiit.ac.in:
+yash.chaurasia@mirage.iiit.ac.in's password: 
+id: cannot find name for group ID 201733
+lab3.c                                                           100%    0     0.0KB/s   00:00    
+lab1.c                                                           100%    0     0.0KB/s   00:00    
+lab2.c                                                           100%    0     0.0KB/s   00:00    
+file3.txt                                                          0%    0     0.0KB/s   --:-- ETAfile3.txt                                                        100%  154   295.6KB/s   00:00    
+pid.txt                                                            0%    0     0.0KB/s   --:-- ETApid.txt                                                          100%  824     1.0MB/s   00:00    
+lab4.c                                                           100%    0     0.0KB/s   00:00    
+file2.txt                                                          0%    0     0.0KB/s   --:-- ETAfile2.txt                                                        100% 1828     1.7MB/s   00:00    
+lab5.c                                                           100%    0     0.0KB/s   00:00    
+file1.txt                                                          0%    0     0.0KB/s   --:-- ETAfile1.txt                                                        100% 1828     1.7MB/s   00:00    
+lab3.c                                                           100%    0     0.0KB/s   00:00    
+lab1.c                                                           100%    0     0.0KB/s   00:00    
+lab2.c                                                           100%    0     0.0KB/s   00:00    
+file3.txt                                                          0%    0     0.0KB/s   --:-- ETAfile3.txt                                                        100%  154   324.7KB/s   00:00    
+pid.txt                                                            0%    0     0.0KB/s   --:-- ETApid.txt                                                          100%  824     1.1MB/s   00:00    
+lab4.c                                                           100%    0     0.0KB/s   00:00    
+file2.txt                                                          0%    0     0.0KB/s   --:-- ETAfile2.txt                                                        100% 1828     1.9MB/s   00:00    
+lab5.c                                                           100%    0     0.0KB/s   00:00    
+file1.txt                                                          0%    0     0.0KB/s   --:-- ETAfile1.txt                                                        100% 1828   706.1KB/s   00:00    
+]777;notify;Command completed;scp -r ../Assignment1/ yash.chaurasia@mirage.iiit.ac.in:]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ tar -cvzf a/[K[Ka [K[KAssignment1_20171116.tar.gz A[K../Assignment1/[K
+tar: Removing leading `../' from member names
+../Assignment1/
+../Assignment1/yash.chaurasia@mirage.iiit.ac.in/
+../Assignment1/yash.chaurasia@mirage.iiit.ac.in/lab3.c
+../Assignment1/yash.chaurasia@mirage.iiit.ac.in/lab1.c
+../Assignment1/yash.chaurasia@mirage.iiit.ac.in/lab2.c
+../Assignment1/yash.chaurasia@mirage.iiit.ac.in/file3.txt
+../Assignment1/yash.chaurasia@mirage.iiit.ac.in/pid.txt
+../Assignment1/yash.chaurasia@mirage.iiit.ac.in/lab4.c
+../Assignment1/yash.chaurasia@mirage.iiit.ac.in/b/
+../Assignment1/yash.chaurasia@mirage.iiit.ac.in/b/e/
+../Assignment1/yash.chaurasia@mirage.iiit.ac.in/b/e/f/
+../Assignment1/yash.chaurasia@mirage.iiit.ac.in/b/e/f/file2.txt
+../Assignment1/yash.chaurasia@mirage.iiit.ac.in/lab5.c
+../Assignment1/yash.chaurasia@mirage.iiit.ac.in/a/
+../Assignment1/yash.chaurasia@mirage.iiit.ac.in/a/file1.txt
+../Assignment1/lab3.c
+../Assignment1/lab1.c
+../Assignment1/lab2.c
+../Assignment1/file3.txt
+../Assignment1/pid.txt
+../Assignment1/lab4.c
+../Assignment1/b/
+../Assignment1/b/e/
+../Assignment1/b/e/f/
+../Assignment1/b/e/f/file2.txt
+../Assignment1/lab5.c
+../Assignment1/a/
+../Assignment1/a/file1.txt
+tar: ../Assignment1: file changed as we read it
+]777;notify;Command completed;tar -cvzf Assignment1_20171116.tar.gz ../Assignment1]0;user@localhost:~/Yash/Assignment1]7;file://localhost.localdomain/home/user/Yash/Assignment1[user@localhost Assignment1]$ exit
+exit
+
+Script done on Wed 13 Sep 2017 05:08:33 PM IST

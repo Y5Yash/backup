@@ -1,0 +1,95 @@
+1) List 
+  $ ls t*
+  #This gets files/directories starting with t.
+  #If the directory name is starting with t, it will also show the files in that directory
+    
+2) Process and Kill
+
+$ ps  ## process running for current user only !
+$ ps -ef ## - of all process running 
+$ top ## top process running in descending order
+
+To kill a process of a particular task
+
+$ ps -ef | grep firefox 
+$ kill -9 pid ## pid from previous command. For -9, do a man
+
+or directly
+
+$ pkill firefox ## process name
+
+Now, you can find the PID for shutdown
+
+3) Download videos, this is not possible with wget. It will only get what is available as view page source.
+However, it can create entired html directory structure of the page including js, css and html.			
+		
+4) For grep commands , some good examples - https://alvinalexander.com/unix/edu/examples/grep.shtml
+
+5) "This incident will be reported", the related log could be at 
+	/var/log/auth.log
+	/var/spool/mail/root
+
+6) "tr" command.. create new line after space of every word
+	$ tr -cs "[:alpha:]" "\n" < file1 > file2 
+	$ cp file2 file1  # put them together now
+	
+7) Some permissions related commands that you could execute in workspace or otherwise !
+Make sure you have required permissions. Check with TAs on this
+
+a)Create User 
+	$ adduser itws1
+	$ adduser itws1-noperm
+
+	This will create user with no home directory. 	For home directory - use -m option
+	
+	$ adduser -m itws1
+	$ adduser -m itws1-noperm
+
+	sudo passwd itws1
+		<enter password twice>
+	sudo passwd itws1-noperm
+		<enter password twice>
+
+b) Delete User		
+	$ deluser itws1
+	$ deluser itws1-noperm
+
+c) You could also add a user to a group
+	create group
+   $ sudo groupadd itws1-group1
+   
+   $ sudo adduser itws1 itws1-group1    
+   
+   You can add user to multiple groups as well using "usermod" command
+
+ Going forward, i will use this group and users in the class  
+   
+d) $ id itws1 
+		this will give you what group(s) user belongs to. 
+	
+User database - To get a list of user types
+
+e)	$ cat /etc/passwd
+	
+Group database - To get list of groups that users belong to  
+
+f)	$ cat /etc/group
+
+g)	$ cat /etc/group |cut -d: -f1
+
+To get a list of all groups. Now try to get a user of a specific group 
+		
+To get files owned by itws1
+h)	$ find /home -group itws1
+
+Files are created with with default rw, r and r permissions. You could modify permissions changing
+.bashrc with following entry -  "umask" 
+
+There is no single command to provide file access with permissions to a user.
+Please try commands chown and chmod for file access.  
+
+Similarly for copying files from one user to another, it is a combination of cp, chown and chmod
+
+We will discuss this more in file system and inode
+	
+

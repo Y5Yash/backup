@@ -1,0 +1,16 @@
+#!bin/bash
+echo Please Enter Your Name:
+read user
+echo And Your Birth Date in YYYY-MM-DD Format:
+read birdat
+year=$( date +%Y )
+month=$( date +%m )
+day=$( date +%d )
+by=`echo $birdat | cut -d "-" -f1`
+bm=`echo $birdat | cut -d "-" -f2`
+bd=`echo $birdat | cut -d "-" -f3`
+if [ $bd -eq $day -a $bm -eq $month ]
+then
+	(( age=$year-$by ))
+	echo "Happy Birthday, $user. You are $age years old today!"
+fi

@@ -1,0 +1,17 @@
+#!/bin/bash
+x=$( ls *.txt )
+j=0
+for i in $x
+do
+   y=$( grep $1 $i | wc -l )
+   echo "$y in $i"
+   if [ $y -gt 0 ]
+   then
+	  j=1
+  fi 
+done
+ if [ $j -eq 1 ]
+ then	 exit 0
+ else
+	 exit 1
+ fi

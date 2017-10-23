@@ -1,0 +1,10 @@
+#!/bin/bash
+i=$1
+while [ $i -gt 0 ]
+do
+	tput setaf $i
+	ping -c1 google.com | head -1 | while read x; do echo "$(date) : $x"; done
+ (( i-- ))
+done
+tput setaf 7
+

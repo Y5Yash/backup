@@ -1,0 +1,38 @@
+#!/bin/bash
+n=$1
+rom()
+{
+	number=$1
+	factor=$2
+	rchar=$3
+	let "remainder = number -factor"
+	while [ $remainder -ge 0 ]
+	do
+		   echo -n $rchar
+		   let " number -= factor"
+		   let "remainder = number - factor"
+	   done
+	   return $number
+   }
+
+
+ 
+rom $n 100 C
+n=$?
+rom $n 90 XC
+n=$?
+rom $n 50 L
+n=$?
+rom $n 40 XL
+n=$?
+rom $n 10 X
+n=$?
+rom $n 9 IX
+n=$?
+rom $n 5 V
+n=$?
+rom $n 4 IV
+n=$?
+rom $n 1 I
+ echo
+

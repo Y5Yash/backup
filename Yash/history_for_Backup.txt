@@ -1,0 +1,1000 @@
+   10  firefox &
+   11  su -
+   12  exit
+   13  ls
+   14  clear
+   15  vi /etc/wgetrc 
+   16  clear
+   17  su -
+   18  exit
+   19  su -
+   20  exit
+   21  su -
+   22  exit
+   23  ls
+   24  cd /
+   25  ls
+   26  cd research/
+   27  ls
+   28  cd ug
+   29  ls
+   30  cd ug2k15dual/
+   31  ls
+   32  cd csd/
+   33  ls
+   34  cd sankarshan.damle/
+   35  su -
+   36  exit
+   37  su -
+   38  ifconfig
+   39  ping google.com
+   40  su -
+   41  exit
+   42  su -
+   43  ifconfig
+   44  ping google.com
+   45  clear
+   46  su -
+   47  ifconfig
+   48  ping google.com
+   49  gcc --version
+   50  vim --version
+   51  ping google.com
+   52  ifconfig
+   53  clear
+   54  ls
+   55  vi rect.c
+   56  gcc rect.c
+   57  ./a.out
+   58  vi rect.c
+   59  gcc rect.c
+   60  ./a.out
+   61  vi rect.c
+   62  ./a.out
+   63  vi rect.c
+   64  gcc rect.c
+   65  .a/out
+   66  clear
+   67  ./a.out
+   68  vi rect.c
+   69  gcc rect.c
+   70  vi rect.c
+   71  gcc rect.c
+   72  ./a.out
+   73  clear
+   74  cd ..
+   75  ls
+   76  cd user
+   77  ls
+   78  mkdir Yash
+   79  cd Yash
+   80  vi firstc.c
+   81  ls
+   82  vi firstc.c
+   83  ls
+   84  cd Yash
+   85  ls
+   86  ls -a
+   87  man mkdir
+   88  man cat
+   89  rmdir .firstc.c.swp
+   90  rmdir -f .firstc.c.swp
+   91  man rmdir
+   92  cd Yash
+   93  ls -a
+   94  rm .firstc.c.swp
+   95  ls -a
+   96  vim firstc.c
+   97  man vi
+   98  ls -a
+   99  rmdir -f .firstc.c.swp
+  100  cd Yash
+  101  ls -a
+  102  vi yash
+  103  ssh 10.3.11.183
+  104  man shutdown 
+  105  ssh 10.3.11.183
+  106  shh cr13069
+  107  ssh cr13069
+  108  ssh user@cr13069
+  109  ssh user@cr13069 ~
+  110  ls
+  111  cat rect.c 
+  112  cd
+  113  cd ..
+  114  ls
+  115  cd root
+  116  root
+  117  cd ..
+  118  ls
+  119  cd ..
+  120  man cd
+  121  man ssh
+  122  ls
+  123  cd lib
+  124  ls
+  125  cd games/
+  126  ls
+  127  cd ..
+  128  ls
+  129  cd ..
+  130  ls
+  131   cd ..
+  132  cd st
+  133  cd students/
+  134  ls
+  135  cd ..
+  136  ls 
+  137  cd usr/
+  138  ls
+  139  cd games/
+  140  ls
+  141  cd ..
+  142  cd
+  143  c
+  144  cd
+  145  ls
+  146  cd ..
+  147  ls
+  148  cd user
+  149  a.out
+  150  ./a.out 
+  151  cd ssh
+  152  ssh
+  153  man ssh
+  154  man hostname
+  155  ls
+  156  cat rect.c 
+  157  ls
+  158  m
+  159  mkdir
+  160  mkdir Varun
+  161  ls 
+  162  cd v
+  163  cd Varun/
+  164  ls
+  165  vi First.c
+  166  ls
+  167  cd ..
+  168  ls 
+  169  ls Yash/
+  170  ls
+  171  cd Yash/
+  172  ls
+  173  sls
+  174  cd ..
+  175  cat rect.c 
+  176  ls
+  177  cd Yash
+  178  ls
+  179  vi yash.c
+  180  gcc yash.c
+  181  ls -a
+  182  ./a.out
+  183  1
+  184  vi yash.c
+  185  gcc yash.c
+  186  ./a.out
+  187  vi yash.c
+  188  gcc yash.c
+  189  ./a.out
+  190  vi yash.c
+  191  gcc yash.c
+  192  ./a.out
+  193  vi yash.c
+  194  gcc yash.c
+  195  ./a.out
+  196  vi yash.c
+  197  gcc yash.c
+  198  vi yash.c
+  199  gcc yash.c
+  200  vi yash.c
+  201  gcc yash.c
+  202  vi yash.c
+  203  gcc yash.c
+  204  ./a.out
+  205  vi yash.c
+  206  gcc yash.c
+  207  ./a.out
+  208  vi yash.c
+  209  gcc yash.c
+  210  vi yash.c
+  211  gcc yash.c
+  212  vi yash.c
+  213  gcc yash.c
+  214  vi yash.c
+  215  gcc yash.c
+  216  ./a.out
+  217  vi yash.c
+  218  gcc yash.c
+  219  ./a.out
+  220  vi yash.c
+  221  gcc yash.c
+  222  ./a.out
+  223  vi yash.c
+  224  gcc yash.c
+  225  ./a.out
+  226  vi yash.c
+  227  gcc yash.c
+  228  ./a.out
+  229  vi yash.c
+  230  ./a.out
+  231  vi yash.c
+  232  gcc yash.c
+  233  ./a.out
+  234  vi yash.c
+  235  gcc yash.c
+  236  ./a.out
+  237  vi yash.c
+  238  gcc yash.c
+  239  ./a.out
+  240  vi yash.c
+  241  gcc yash.c
+  242  ./a.out
+  243  vi yash.c
+  244  gcc yash.c
+  245  ./a.out
+  246  vi yash.c
+  247  gcc yash.c
+  248  ./a.out
+  249  vi yash.c
+  250  gcc yash.c
+  251  ./a.out
+  252  vi yash.c
+  253  gcc yash.c
+  254  ./a.out
+  255  vi yash.c
+  256  gcc yash.c
+  257  ./a.out
+  258  vi yash.c
+  259  gcc yash.c
+  260  ./a.out
+  261  vi yash.c
+  262  gcc yash.c
+  263  ./a.out
+  264  vi yash.c
+  265  gcc yash.c
+  266  ./a.out
+  267  vi yash.c
+  268  gcc yash.c
+  269  vi yash.c
+  270  gcc yash.c
+  271  ./a.out
+  272  vi yash.c
+  273  gcc yash.c
+  274  ./a.out
+  275  vi yash.c
+  276  gcc yash.c
+  277  ./a.out
+  278  vi yash.c
+  279  gcc yash.c
+  280  ./a.out
+  281  vi yash.c
+  282  gcc yash.c
+  283  ./a.out
+  284  vi yash.c
+  285  gcc yash.c
+  286  ./a.out
+  287  vi yash.c
+  288  gcc yash.c
+  289  vi yash.c
+  290  gcc yash.c
+  291  ./a.out
+  292  vi yash.c
+  293  gcc yash.c
+  294  ./a.out
+  295  vi yash.c
+  296  gcc yash.c
+  297  ./a.out
+  298  vi yash.c
+  299  gcc yash.c
+  300  vi yash.c
+  301  gcc yash.c
+  302  vi yash.c
+  303  gcc yash.c
+  304  ./a.out
+  305  vi yash.c
+  306  gcc yash.c
+  307  ./a.out
+  308  vi yash.c
+  309  gcc yash.c
+  310  ./a.out
+  311  vi yash.c
+  312  gcc yash.c
+  313  vi yash.c
+  314  gcc yash.c
+  315  vi yash.c
+  316  gcc yash.c
+  317  ./a.out
+  318  vi yash.c
+  319  gcc yash.c
+  320  ./a.out
+  321  vi yash.c
+  322  gcc yash.c
+  323  ./a.out
+  324  vi yash.c
+  325  gcc yash.c
+  326  vi yash.c
+  327  gcc yash.c
+  328  clear
+  329  gcc yash.c
+  330  vi yash.c
+  331  gcc yash.c
+  332  vi yash.c
+  333  gcc yash.c
+  334  ./a.out
+  335  cp yash.c firstc.c
+  336  ls 
+  337  gcc firstc.c
+  338  ls 
+  339  ./a.out
+  340  cat firstc.c .firstc.c
+  341  ls -a
+  342  vi .
+  343  vi ..
+  344  clear
+  345  cat firstc.c .firstc.c
+  346  man sudo
+  347  sudo ls
+  348  ls
+  349  clear
+  350  logout
+  351  ls
+  352  cd Varun
+  353  ls
+  354  mkdir Kripz4ever
+  355  ~
+  356  cd
+  357  ip addr show
+  358  exit
+  359  hostname
+  360  ls
+  361  ip 
+  362  ip address 
+  363  hostname
+  364  hostname -I
+  365  exit 
+  366  hostname
+  367  hostname -I
+  368  ssh 10.3.11.224
+  369  ssh 10.3.11.183
+  370  ls]
+  371  ls
+  372  cd Varun/
+  373  ks
+  374  l
+  375  ls
+  376  cd ..
+  377  ls
+  378  ls Varun/
+  379  ls Varun/Kripz4ever/
+  380  ssh 10.3.11.182
+  381  exit
+  382  ifconfig
+  383  man shutdown
+  384  shutdown --no-wall 
+  385  exit 
+  386  ifconfig
+  387  ssh user@10.3.11.183
+  388  hostname --all-ip-addresses
+  389  ifconfig
+  390  cc
+  391  c
+  392  vim .bashrc
+  393  . .bashrc
+  394  c
+  395  vim .bashrc
+  396  . .bashrc
+  397  cl
+  398  vim .bashrc
+  399  l
+  400  c
+  401  l
+  402  vim .bashrc
+  403  . .bashrc
+  404  c
+  405  l
+  406  ll
+  407  c
+  408  l
+  409  ls
+  410  l -a
+  411  ls -a
+  412  c
+  413  ssh user@10.3.11.183
+  414  c
+  415  cfc
+  416  cc\
+  417  cc
+  418  l
+  419  ll
+  420  clear
+  421  ll
+  422  l
+  423  ll
+  424  tput reset
+  425  ssh 10.3.11.183
+  426  iiit123
+  427  cl
+  428  c
+  429  ssh 10.3.11.183
+  430  ifconfig
+  431  clear
+  432  ifconig
+  433  cc
+  434  ssh 10.3.11.183
+  435  ssh kripa.anne@mirage.iiit.ac.in
+  436  clear
+  437  ls
+  438  ssh kripa.anne@mirage.iiit.ac.in
+  439    cd
+  440  man poweroff
+  441  ssh 10.3.11.183
+  442  ls
+  443  sls
+  444  l
+  445  c
+  446  cc
+  447  vi .bashrc 
+  448  . .bashrc
+  449  vim dymm.c
+  450  chmod u+x dymm.c 
+  451  ls
+  452  ./dymm.c 
+  453  ./dymm.c | gedit -
+  454  exit
+  455  ls
+  456  cd Yash
+  457  vi aframe
+  458  ls
+  459  ssh user@10.
+  460  ssh user@10.3.11.199
+  461  ssh 10.3.11.183
+  462  clear
+  463  ssh 10.3.11.183
+  464  clear
+  465  ls
+  466  cd yash
+  467  cd Yash
+  468  ls
+  469  ,/a.out
+  470  ./a.out
+  471  clear
+  472  cat yash.c
+  473  ssh 10.3.11.183
+  474  clear
+  475  ls
+  476  pwd
+  477  cd ///
+  478  pwd
+  479  cd /
+  480  pwd
+  481  mkdir D:
+  482  cd D:
+  483  cd 
+  484  cd
+  485  cd ///
+  486  ls
+  487  cd
+  488  cd ..
+  489  ssh
+  490  ssh siddharth.jain@students.iiit.ac.in
+  491  ssh 10.3.11.182
+  492  ssh 10.3.11.181
+  493  ssh 10.3.11.180
+  494  cd ~
+  495  LS
+  496  ls
+  497  cd Yash
+  498  ls
+  499  cd project
+  500  pwd
+  501  cd Yash
+  502  ls
+  503  cd project
+  504  ls project
+  505  ls
+  506  ls project
+  507  exit
+  508  ls
+  509  ifconfig 
+  510  logout
+  511  exit
+  512  vim pro.c
+  513  gcc pro.c
+  514  vim pro.c
+  515  gcc pro.c
+  516  ./a.out
+  517  vim pro.c
+  518  clear
+  519  vim pro.c
+  520  vim bit.c
+  521  gcc bit.c
+  522  ./a.out
+  523  vim bit.c
+  524  vim tog.c
+  525  gcc tog.c
+  526  ./a.out
+  527  vim tog.c
+  528  ifconf
+  529  ifconfi
+  530  ip addr show
+  531  clear
+  532  ssh13065 .localhost
+  533  ssh13070.local
+  534  ssh 13069.localhost
+  535  cleaer
+  536  clear
+  537  ssh cr13069.local
+  538  cd ~
+  539  ssh cr13069.local
+  540  ls
+  541  vi Fasta.c
+  542  whoami
+  543  ls
+  544  exit
+  545  ls
+  546  ssh 10.3.11.196
+  547  ssh 10.3.11.183
+  548  ssh 10.3.11.196
+  549  clear
+  550  logout
+  551  ssh 10.3.11.196
+  552  ls
+  553  cd Yash
+  554  ls
+  555  vi input
+  556  vi io.c
+  557  gcc io.c
+  558  vi io.c
+  559  gcc io.c
+  560  ls
+  561  ./a.out 
+  562  ls
+  563  cat output
+  564  vi io.c
+  565  gcc io.c
+  566  vi io.c
+  567  gcc io.c
+  568  vi io.c
+  569  gcc io.c
+  570  ./a.out 
+  571  ls
+  572  cat output
+  573  vi io.c
+  574  gcc io.c
+  575  ./a.out 
+  576  cat output
+  577  vi input
+  578  ./a.out 
+  579  cat output
+  580  vim demoio.c
+  581  gcc demoio.c
+  582  vim demoio.c
+  583  gcc demoio.c
+  584  vim demoio.c
+  585  gcc demoio.c
+  586  ./a.out
+  587  ./a.out < input
+  588  vim demoio.c
+  589  gcc demoio.c
+  590  ./a.out < input
+  591  man Segmentation fault
+  592  info Segmentation fault
+  593  info
+  594  vi pro.c
+  595  ls
+  596  vi dymm.c
+  597  gcc dymm.c
+  598  clear
+  599  vi abc.c
+  600  gcc abc.c
+  601  vi abc.c
+  602  gcc abc.c
+  603  ./a.out
+  604  vi abc.c
+  605  gcc abc.c
+  606  ./a.out
+  607  vi abc.c
+  608  gcc abc.c
+  609  ./a.out
+  610  vi abc.c
+  611  gcc abc.c
+  612  ./a.out
+  613  vi abc.c
+  614  gcc abc.c
+  615  vi abc.c
+  616  gcc abc.c
+  617  ./a.out
+  618  vi abc.c
+  619  gcc abc.c
+  620  ./a.out
+  621  vi abc.c
+  622  gcc abc.c
+  623  ./a.out
+  624  vi abc.c
+  625  gcc abc.c
+  626  ./a.out
+  627  vi abc.c
+  628  gcc abc.c
+  629  ./a.out
+  630  clear
+  631  vi abc.c
+  632  gcc abc.c
+  633  ./a.out
+  634  vi abc.c
+  635  gcc abc.c
+  636  ./a.out
+  637  vi abc.c
+  638  clear
+  639  ls
+  640  vi abc.c
+  641  gcc abc.c
+  642  ./a.out
+  643  vi abc.c
+  644  vim insertion.c
+  645  make insertion
+  646  ./insertion
+  647  vim insertion.c
+  648  make insertion
+  649  ./insertion
+  650  vim insertion.c
+  651  vi ph
+  652  ./ph
+  653  chmod 755 ph
+  654  ./ph
+  655  vim insertion.c
+  656  vi sqrt.c
+  657  vi sqrt.c 
+  658  gcc sqrt.c 
+  659  vi sqrt.c
+  660  gcc sqrt.c 
+  661  ./a.out
+  662  vi sqrt.c
+  663  clear
+  664  ./a.out
+  665  clear
+  666  man sleep
+  667  clear
+  668  vi pascal.c
+  669  gcc pascal.c
+  670  ./a.out
+  671  vi pascal.c
+  672  gcc pascal.c
+  673  vi pascal.c
+  674  gcc pascal.c
+  675  ./a.out
+  676  vi pascal.c
+  677  gcc pascal.c
+  678  ./a.out
+  679  vi pascal.c
+  680  gcc pascal.c
+  681  ./a.out
+  682  gcc pascal.c
+  683  ./a.out
+  684  clear
+  685  vi pascal.c
+  686  gcc pascal.c
+  687  ./a.out
+  688  vi pascal.c
+  689  clear
+  690  gcc pascal.c
+  691  vi pascal.c
+  692  gcc pascal.c
+  693  ./a.out
+  694  vi pascal.c
+  695  gcc pascal.c
+  696  ./a.out
+  697  vi pascal.c
+  698  gcc pascal.c
+  699  ./a.out
+  700  vi pascal.c
+  701  gcc pascal.c
+  702  ./a.out
+  703  vi pascal.c
+  704  gcc pascal.c
+  705  ./a.out
+  706  vi pascal.c
+  707  gcc pascal.c
+  708  ./a.out
+  709  vi pascal.c
+  710  gcc pascal.c
+  711  ./a.out
+  712  vi pascal.c
+  713  gcc pascal.c
+  714  ./a.out
+  715  clear
+  716  ./a.out
+  717  vi pascal.c
+  718  ./a.out
+  719  vi pascal.c
+  720  clear
+  721  gcc pascal.c
+  722  ./a.out
+  723  clear
+  724  gcc pascal.c
+  725  ./a.out
+  726  clear
+  727  vi fib.c
+  728  gcc fib.c
+  729  ./a.out
+  730  vi fib.c
+  731  gcc fib.c
+  732  ./a.out
+  733  vi fib.c
+  734  gcc fib.c
+  735  ./a.out
+  736  clear
+  737  ./a.out
+  738  vi fib.c
+  739  gcc fib.c
+  740  ./a.out
+  741  vi fib.c
+  742  vi pascal.c
+  743  gcc pascal.c
+  744  ./a.out
+  745  vi pascal.c
+  746  gcc pascal.c
+  747  ./a.out
+  748  vi pascal.c
+  749  clear
+  750  gcc pascal.c
+  751  ./a.out
+  752  clear
+  753  vi fib.c
+  754  clear
+  755  ls
+  756  clear
+  757  vi fib.c
+  758  vi fb.c
+  759  gcc fb.c
+  760  ./a.out
+  761  vi fb.c
+  762  gcc fb.c
+  763  vi fb.c
+  764  gcc fb.c
+  765  ./a.out
+  766  vi fb.c
+  767  gcc fb.c
+  768  ./a.out
+  769  vi fb.c
+  770  gcc fb.c
+  771  ./a.out
+  772  vi fb.c
+  773  gcc fb.c
+  774  ./a.out
+  775  vi fb.c
+  776  gcc fb.c
+  777  ./a.out
+  778  vi fb.c
+  779  gcc fb.c
+  780  ./a.out
+  781  vi fb.c
+  782  ./a.out
+  783  vi fb.c
+  784  clear
+  785  ./a.out
+  786  clear
+  787  vi lp.v
+  788  vi lp.c
+  789  ssh suryansh.srivastava@research.iiit.ac.in
+  790  ssh suryansh.srivastava@researchweb.iiit.ac.in
+  791  ls
+  792  ls -l
+  793  chmod o+w Yash
+  794  ls -l Yash
+  795  clear
+  796  ls -l
+  797  chmod o-w
+  798  chmod o-w Yash
+  799  ls -l Yash
+  800  clear
+  801  ls -a
+  802  clear
+  803  mkdir -p a/b/c.txt
+  804  tree a
+  805  ls -a
+  806  rm -rf a
+  807  cd a
+  808  mkdir a
+  809  rm -r a
+  810  tree a
+  811  clear
+  812  man vim
+  813  clear
+  814  vim first.sh
+  815  sh first.sh
+  816  /first.sh
+  817  ./first.sh
+  818  chmod a+x first.sh
+  819  ./first.sh
+  820  vim first.sh
+  821  ./first.sh
+  822  vim first.sh
+  823  sh first.sh
+  824  set name="aradhya"
+  825  sh first.sh
+  826  vim first.sh
+  827  sh first.sh
+  828  vim first.sh
+  829  sh first.sh
+  830  vim first.sh
+  831  vim .senior.c
+  832  rm .senior.c
+  833  rm -a .senior.c
+  834  ls -a
+  835  vi Varun
+  836  0
+  837  544 fb.c
+  838  clear
+  839  firefox https://google.com
+  840  firefox google.com
+  841  man display
+  842  ssh 10.3.11.183
+  843  logout
+  844  $LOGNAME
+  845  echo $LOGNAME
+  846  echo $SHELL
+  847  echo $
+  848  echo $PATH
+  849  man $
+  850  echo $HOME
+  851  echo $USER
+  852  echo $
+  853  echo $PS1
+  854  echo $PS4
+  855  echo $PS
+  856  echo $PS9
+  857  echo $PS2
+  858  echo $PS1
+  859  man export
+  860  man kill
+  861  ps
+  862  echo $PS1
+  863  man ps
+  864  ps -elf
+  865  kill -9 10
+  866  kill -9 101
+  867  kill -9 4058
+  868  man kill
+  869  kill -n 4058
+  870  kill -p 4058
+  871  kill --pid 4058
+  872  kill 4058
+  873  kill 405
+  874  kill 1
+  875  kill -9 1
+  876  info kill
+  877  man grep
+  878  ps
+  879  ps -elf
+  880  kill -9 *aayush*
+  881  man ps
+  882  ps -j
+  883  kill -9 4*
+  884  man rm
+  885  ls 
+  886  cd -
+  887  cd Yash
+  888  vi Suppliment.txt
+  889  mkdir -p a b /e/f
+  890  mkdir -p a b/e/f
+  891  ls
+  892  w
+  893  exit
+  894  script gaurav.log
+  895  ls -l
+  896  chmod 777 gaurav.log
+  897  ls -l
+  898  ./gaurav.log
+  899  sh gaurav.log
+  900  cd Yash
+  901  ls
+  902  mkdir Assignment1
+  903  cd Assignment1
+  904  mkdir a/b/c
+  905  mkdir -p a/b/c
+  906  rmdir -p a/b/c
+  907  mkdir -p a
+  908  rmdir -p a
+  909  rmdir -p a/b/c d
+  910  mkdir -p a/b/c d
+  911  rmdir -p a/b/c d
+  912  mkdir b c d
+  913  rmdir b c d
+  914  ls
+  915  clear
+  916  man mkdir
+  917  mkdir -v a b c
+  918  rmdir -v a b c
+  919  mkdir -vp a/b c
+  920  ls
+  921  rmdir -vp a/b c
+  922  ls -l
+  923  mkdir -p a b/e/f
+  924  clear
+  925  ls -l
+  926  tree
+  927  cd a
+  928  ls
+  929  cd -
+  930  cd b
+  931  ls -l
+  932  cd f
+  933  cd e
+  934  cd f
+  935  cd ../../..
+  936  clear
+  937  cd a
+  938  ls -l|tee file.txt
+  939  ls -l ~
+  940  ls -l ~|tee file.txt
+  941  cat file.txt
+  942  clear
+  943  mv file.txt file1.txt
+  944  ls
+  945  cp cp file1.txt ../b/e/f/file2.txt
+  946  cp file1.txt ../b/e/f/file2.txt
+  947  cd ../b/e/f/file2.txt
+  948  cd ../b/e/f/
+  949  ls
+  950  cat file1.txt | tr -s " " | cut -d " " -f 1
+  951  cd -
+  952  cat file1.txt | tr -s " " | cut -d " " -f 1
+  953  cat file1.txt | tr -s " " | cut -d " " -f1
+  954  cat file1.txt | tr -s " " | cut -d " " -f5
+  955  cat file1.txt | tr -s " " | cut -d " " -f5 | sort | uniq
+  956  cat file1.txt | tr -s " " | cut -d " " -f5 | sort
+  957  cat file1.txt | tr -s " " | cut -d " " -f5 | sort | uniq
+  958  cd ../b/e/f/
+  959  pwd
+  960  cd -
+  961  ls -l
+  962  man touch
+  963  touch -d "2 hours ago" file1.txt
+  964  ls -l
+  965  touch -d "2 hours later" file1.txt
+  966  touch -d " 2 hours ago " file1.txt
+  967  ls -l
+  968  touch file1.txt
+  969  ls -l
+  970  cd ..
+  971  cat < file3.txt
+  972  cat > file3.txt
+  973  cat file3.txt
+  974  head file3.txt
+  975  head -15 file3.txt | tail -9
+  976  wc file3.txt 
+  977  wc file3.txt | cut -d " " -f1
+  978  wc file3.txt | cut -d " " -f2
+  979  wc -l
+  980  wc -l file3.txt
+  981  man wc
+  982  wc -w file3.txt
+  983  wc -w file3.txt | cut -d " " -f1
+  984  echo "hello world"
+  985  man which
+  986  which ls
+  987  man history
+  988  history
+  989  history|tail -6 | head -5
+  990  history|tail -6 | head -5 | cut -d " " -f 3
+  991  history|tail -6 | head -5 | cut -d " " -f 4
+  992* history|tail -6 | head -5
+  993  history
+  994  touch 1 2 3
+  995  ls
+  996  rm 1 2 3
+  997  ls
+  998  touch lab1.txt lab2.txt lab3.txt lab4.txt lab5.txt
+  999  tree
+ 1000  mv lab*.txt lab*.c
+ 1001  mv man
+ 1002  man mv
+ 1003  mv info
+ 1004  info mv
+ 1005  mv *.txt *.c
+ 1006  history
+ 1007  cd ..
+ 1008  history
+ 1009  history > history_for_Backup.txt

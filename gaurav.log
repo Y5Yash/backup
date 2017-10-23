@@ -1,0 +1,13 @@
+Script started on Mon 11 Sep 2017 11:55:20 PM IST
+]777;notify;Command completed;ls]0;user@localhost:~]7;file://localhost.localdomain/home/user[user@localhost ~]$ ls
+[0m[38;5;33ma[0m      [38;5;40ma.out[0m  bit.c    [38;5;33mDocuments[0m  [38;5;40mdymm.c[0m  fib.c     gaurav.log  [38;5;40minsertion[0m    [38;5;33mMusic[0m     [38;5;40mph[0m        pro.c   rect.c  [38;5;33mTemplates[0m  [38;5;33mVarun[0m   water.c
+abc.c  [38;5;33mb[0m      [38;5;33mDesktop[0m  [38;5;33mDownloads[0m  fb.c    [38;5;40mfirst.sh[0m  grep        insertion.c  pascal.c  [38;5;33mPictures[0m  [38;5;33mPublic[0m  sqrt.c  tog.c      [38;5;33mVideos[0m  [38;5;33mYash[0m
+]777;notify;Command completed;ls]0;user@localhost:~]7;file://localhost.localdomain/home/user[user@localhost ~]$ w
+ 23:55:29 up  2:31,  2 users,  load average: 0.27, 0.35, 0.32
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+user     tty2      21:25    2:30m  7:54   1:27  /usr/lib64/firefox/firefox -contentproc -childID 1 -isForBrowser -intPrefs 5:50|6:-1|18:0|28:1000|33:
+user     pts/1     23:55    1.00s  0.02s  0.00s w
+]777;notify;Command completed;w]0;user@localhost:~]7;file://localhost.localdomain/home/user[user@localhost ~]$ exit
+exit
+
+Script done on Mon 11 Sep 2017 11:55:33 PM IST
